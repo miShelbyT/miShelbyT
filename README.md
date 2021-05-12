@@ -44,4 +44,5 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I used to be a shoe model (yes, shoe models are a thing! Or they were, anyway...)
--->
+
+* thanks to @catalinpit for help in creating this profile page!
