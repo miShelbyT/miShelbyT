@@ -11,5 +11,5 @@ About Me:
 - 💬 Ask me about ... my rescue dog. Or my most recent project!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I used to be a shoe model (yes, shoe models are a thing!)
+- ⚡ Fun fact: ... I used to be a shoe model (yes, shoe models are a thing! Or they were, anyway...)
 -->
