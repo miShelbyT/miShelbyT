@@ -28,7 +28,7 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miShelbyT&hide=java,sass&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miShelbyT&hide=java,scss&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=miShelbyT&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
