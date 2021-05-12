@@ -1,8 +1,10 @@
 ### Hello World! 👋
 
+[![Header](https://raw.githubusercontent.com/miShelbyT/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-Here are some ideas to get you started:
+
+About Me:
 
 - 🔭 I’m currently working on ... the Local Eyes Sweet Pickings React team
 - 🌱 I’m currently learning ... Material UI
