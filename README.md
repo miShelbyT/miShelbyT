@@ -1,7 +1,5 @@
 ### Hello World! 👋
-
-[![Header](https://raw.githubusercontent.com/miShelbyT/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux. But also darn good at modeling and Rails as a b/e API.
 
 
 About Me:
