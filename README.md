@@ -4,8 +4,6 @@
 
 My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux. But also darn good at modeling and Rails as a b/e API.
 
-I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
-
 ---
 🧰 Toolbox:
 
@@ -13,10 +11,18 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 
 ---
 
-Check out my tech blogs on [Medium](https://mi-shelbyrose.medium.com/)
+📙 Check out my tech blogs 
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+[...find more blog posts here...](https://mi-shelbyrose.medium.com/)
+
+I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
 
 ---
-About Me:
+💡 About Me:
 
 - 🔭 I’m currently working on ... the Local Eyes Sweet Pickings 🍎 React team
 - 🌱 I’m currently learning ... Material UI
