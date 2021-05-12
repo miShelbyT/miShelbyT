@@ -2,10 +2,10 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux. But also darn good at modeling and Rails as a b/e API. My temporary portfolio website can be found [here](https://mishelbyrose.wixsite.com/website).
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. My (temporary) portfolio website can be found [here](https://mishelbyrose.wixsite.com/website).
 
 ---
-🧰 Toolbox:
+🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass logo" width="50" height="50"/>
 
