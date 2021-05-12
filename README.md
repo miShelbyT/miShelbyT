@@ -11,7 +11,7 @@ My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's
 
 ---
 
-📙 Check out my tech blogs 
+📙 Check out my recent tech blogs 
 
 <!-- BLOG-POST-LIST:START -->
 - [Git Going!](https://medium.com/nerd-for-tech/git-going-295805e2b29a?source=rss-6c88fa3c4753------2)
@@ -26,6 +26,15 @@ My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's
 I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
 
 ---
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<miShelbyT>&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=<miShelbyT>&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 💡 About Me:
 
 - 🔭 I’m currently working on ... the Local Eyes Sweet Pickings 🍎 React team
