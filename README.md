@@ -14,7 +14,11 @@ My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's
 📙 Check out my tech blogs 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Git Going!](https://medium.com/nerd-for-tech/git-going-295805e2b29a?source=rss-6c88fa3c4753------2)
+- [React Hooks, Part 1](https://levelup.gitconnected.com/react-hooks-part-1-304643294f5?source=rss-6c88fa3c4753------2)
+- [The N + 1 Problem](https://levelup.gitconnected.com/the-n-1-problem-a8f66e3fcf54?source=rss-6c88fa3c4753------2)
+- [Semantic UI](https://mi-shelbyrose.medium.com/semantic-ui-e33025046aaf?source=rss-6c88fa3c4753------2)
+- [JQuery — An Exploration](https://medium.com/an-idea/jquery-an-exploration-dc203ba05932?source=rss-6c88fa3c4753------2)
 <!-- BLOG-POST-LIST:END -->
 
 [...find more blog posts here...](https://mi-shelbyrose.medium.com/)
