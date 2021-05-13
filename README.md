@@ -34,7 +34,7 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 ---
 
 
-💡 About Me:
+💡 About Me
 
 - 🔭 I’m currently working on ... the [Local Eyes](https://beta.localeyes.org/) Sweet Pickings 🍎 React team
 - 🌱 I’m currently learning ... Material UI
