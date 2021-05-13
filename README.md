@@ -1,4 +1,4 @@
-### Hello World! 🥰 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello World! aka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🌎
 
 ---
 
@@ -36,7 +36,7 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 
 💡 About Me:
 
-- 🔭 I’m currently working on ... the Local Eyes Sweet Pickings 🍎 React team
+- 🔭 I’m currently working on ... the [Local Eyes](https://beta.localeyes.org/) Sweet Pickings 🍎 React team
 - 🌱 I’m currently learning ... Material UI
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... where do I start... there's so much to learn!
