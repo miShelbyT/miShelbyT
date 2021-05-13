@@ -26,7 +26,7 @@ My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's
 I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
 
 ---
-## &#x1f4c8; My GitHub Stats
+&#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miShelbyT&hide=java,scss&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=miShelbyT&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
