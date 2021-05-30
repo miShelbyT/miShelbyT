@@ -2,7 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. Just finished my portfolio website which is deployed and can be found [here](https://shelbytalbert.netlify.app/).
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. Just finished my portfolio website which is deployed and can be found [here](www.shelbytalbert.com).
 
 ---
 🧰 Toolbox
