@@ -37,7 +37,7 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 💡 About Me
 
 - 🔭 I’m currently working on ... the [Jellyswitch](https://github.com/jellyswitch/new-jellyswitch) debug/update team
-- 🌱 I’m currently take a deeper dive into ... React Leaflet Maps
+- 🌱 I’m currently take a deeper dive into ... React Leaflet Maps... with an eye on GraphQL next
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... where do I start... there's so much to learn!
 - 💬 Ask me about ... my rescue dog. Or my most recent project!
