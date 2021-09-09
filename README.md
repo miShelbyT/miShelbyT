@@ -2,7 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's Flatiron School. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. Visit my portfolio website [here](https://www.shelbytalbert.com/).
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School in NYC. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. Visit my portfolio website [here](https://www.shelbytalbert.com/).
 
 ---
 🧰 Toolbox
@@ -23,7 +23,7 @@ My name is Shelby Talbert. I'm a full stack software engineer, graduate of NYC's
 
 [...find more blog posts here...](https://mi-shelbyrose.medium.com/)
 
-I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
+I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekculture), [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
 
 ---
 &#x1f4c8; My GitHub Stats
@@ -37,7 +37,7 @@ I am published in Medium's [Level Up Coding](https://levelup.gitconnected.com/),
 💡 About Me
 
 - 🔭 I’m currently working on ... the [Jellyswitch](https://github.com/jellyswitch/new-jellyswitch) debug/update team
-- 🌱 I’m currently take a deeper dive into ... I've got an eye on GraphQL. Any minute now!
+- 🌱 I’m currently take a deeper dive into ... I've got an eye on GraphQL. Any day now!
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... where do I start... there's so much to learn!
 - 💬 Ask me about ... my rescue dog. Or my most recent project!
