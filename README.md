@@ -28,8 +28,8 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 ---
 &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miShelbyT&hide=java,scss&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-[![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=miShelbyT&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miShelbyT&hide=java,scss&theme=tokyonight&layout=compact)](https://github-readme-stats-mishelbyt.vercel.app) 
+[![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=miShelbyT&theme=tokyonight&layout=compact)](https://github.com/github-readme-stats-mishelbyt.vercel.app)
 
 ---
 
