@@ -14,11 +14,11 @@ My name is Shelby Talbert. I'm a full stack software engineer, graduate of the F
 📙 Check out my recent tech blogs 
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on What it is to “Fail” as a Job Seeker](https://mi-shelbyrose.medium.com/thoughts-on-what-it-is-to-fail-as-a-job-seeker-6c8f8f36ba90?source=rss-6c88fa3c4753------2)
 - [Feeling Dumb](https://medium.com/geekculture/feeling-dumb-8f3660977e22?source=rss-6c88fa3c4753------2)
 - [Lessons Learned](https://medium.com/nerd-for-tech/lessons-learned-2932b01b3bad?source=rss-6c88fa3c4753------2)
 - [Git Going!](https://medium.com/nerd-for-tech/git-going-295805e2b29a?source=rss-6c88fa3c4753------2)
 - [React Hooks, Part 1](https://levelup.gitconnected.com/react-hooks-part-1-304643294f5?source=rss-6c88fa3c4753------2)
-- [The N + 1 Problem](https://levelup.gitconnected.com/the-n-1-problem-a8f66e3fcf54?source=rss-6c88fa3c4753------2)
 <!-- BLOG-POST-LIST:END -->
 
 [...find more blog posts here...](https://mi-shelbyrose.medium.com/)
