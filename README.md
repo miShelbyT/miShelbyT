@@ -2,7 +2,8 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School in NYC. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. Visit my portfolio website <a href="https://www.shelbytalbert.com/" target="_blank">here</a>
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School in NYC. I admit, I love the front-end work the most. Completely obsessed with JavaScript, React, Redux, as well as any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API. 
+Visit my portfolio website [here](https://www.shelbytalbert.com/).
 
 ---
 🧰 Toolbox
@@ -37,7 +38,7 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 💡 About Me
 
 - 🔭 I’m currently working on ... the [Jellyswitch](https://github.com/jellyswitch) debug/update team
-- 🌱 I’m currently take a dive into ... Java. OOP!!!
+- 🌱 I’m currently take a dive into ... Java, and I'm loving it!!!
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... where do I start... there's so much to learn!
 - 💬 Ask me about ... my rescue dog. Or my most recent project!
