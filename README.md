@@ -2,7 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School and based in NYC. I admit, I love the front-end work the most but I am currently learning Java and LOVING it. So I'm keeing my mind open! 
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School and based in NYC. I admit, I love the front-end work the most but I am currently learning Java and LOVING it. So I'm keeping my mind open! 
 
 Otherwise, I'm completely obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
