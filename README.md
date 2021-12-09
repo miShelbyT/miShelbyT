@@ -39,7 +39,7 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 
 💡 About Me
 
-- 🔭 I’m currently working on ... the [Jellyswitch](https://github.com/jellyswitch) debug/update team
+- 🔭 I’m currently working on ... JavaScript Advanced Concepts, and finishing up refactoring my Vanilla JS project into OOP
 - 🌱 I’m currently take a dive into ... Java, and I'm loving it!!!
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... where do I start... there's so much to learn!
