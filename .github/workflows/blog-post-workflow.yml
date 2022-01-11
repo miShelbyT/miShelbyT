@@ -13,4 +13,4 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://mi-shelbyrose.medium.com/feed"
+          feed_list: "https://medium.com/feed/@mi-shelbyrose"
