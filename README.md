@@ -2,7 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School and based in NYC. I admit, I love the front-end work the most but I am currently learning Java and LOVING it. So I'm keeping my mind open! 
+My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School and based in NYC. I admit, I love the front-end work the most but I am currently working on MERN stack and LOVING it. Plus I'd started learning Java which is also fun. So I'm keeping my mind open! 
 
 Otherwise, I'm completely obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
@@ -39,8 +39,8 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 
 💡 About Me
 
-- 🔭 I’m currently working on ... JavaScript Advanced Concepts, and finishing up refactoring my Vanilla JS project into OOP
-- 🌱 I’m currently take a dive into ... Java, and I'm loving it!!!
+- 🔭 I’m currently working on ... finishing JavaScript Advanced Concepts
+- 🌱 I’m currently take a dive into ... node and express with mongodb, and I'm loving it!!!
 - 👯 I’m looking to collaborate on ... an open source project
 - 🤔 I’m looking for help with ... where do I start... there's so much to learn!
 - 💬 Ask me about ... my rescue dog. Or my most recent project!
