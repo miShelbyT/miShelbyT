@@ -40,7 +40,6 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 - 🔭 I’m currently working on ... a li'l political project with a friend. Stay tuned!
 - 🌱 I’m currently take a dive into ... node and express with mongodb, and I'm loving it!!!
 - 👯 I’m looking to collaborate on ... an open source project
-- 🤔 I’m looking for help with ... where do I start... there's so much to learn!
 - 💬 Ask me about ... my rescue dog. Or my most recent project!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
 - 😄 Pronouns: ... she/her
