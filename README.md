@@ -2,7 +2,9 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack software engineer, graduate of the Flatiron School -- and now a cohort lead via the Enterprise arm of the Flatiron School. I admit, I love the front-end work the most. I'm particularly obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
+My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School -- now a cohort lead (instuctor) at the Flatiron School, in partnership with the State College of FL. 🥰 
+
+I admit, I love the front-end work the most. I'm particularly obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
 
 ---
@@ -24,7 +26,7 @@ Visit my portfolio website [here](https://www.shelbytalbert.com/).
 
 [...find more blog posts here...](https://mi-shelbyrose.medium.com/)
 
-I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekculture), [Level Up Coding](https://levelup.gitconnected.com/), [Noteworthy](https://blog.usejournal.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
+I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekculture), [Level Up Coding](https://levelup.gitconnected.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
 
 ---
 &#x1f4c8; My GitHub Stats
