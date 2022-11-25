@@ -10,7 +10,18 @@ Visit my portfolio website [here](https://www.shelbytalbert.com/).
 ---
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby logo" width="50" height="50"/> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass logo" width="50" height="50"/>
 
 ---
 
@@ -39,10 +50,10 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 
 💡 About Me
 
-- 🔭 I’m currently working on ... a li'l political project with a friend. Stay tuned!
-- 🌱 I’m currently take a dive into ... python. equal parts fun and tricky.
+- 🔭 I’m currently working on ... an anime project with my students.
+- 🌱 I’m currently take a dive into ... python/alembic/flask. equal parts fun and tricky.
 - 👯 I’m looking to collaborate on ... an open source project
-- 💬 Ask me about ... my rescue dog. Or my most recent project!
+- 💬 Ask me about ... my rescue dog.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I used to be a shoe model (yes, shoe models are a thing! Or they were, anyway...)
