@@ -2,7 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School -- now a cohort lead (instuctor) at the Flatiron School, in partnership with the State College of FL. 🥰 
+My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School -- now a cohort lead (instuctor) at the Flatiron School, in partnership with the State College of FL. 🥰 🤓
 
 I admit, I love the front-end work the most. I'm particularly obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
