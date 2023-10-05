@@ -1,4 +1,4 @@
-### Hello World! aka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px"> 🌎
+### Hello World! aka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" height="25px"> 🌎
 
 ---
 
