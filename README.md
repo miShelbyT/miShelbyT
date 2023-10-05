@@ -1,4 +1,4 @@
-### Hello World! aka <img src="https://giphy.com/embed/26xBwdIuRJiAIqHwA" height="250px"> 🌎
+### Hello World! aka <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="250px">
 
 ---
 
