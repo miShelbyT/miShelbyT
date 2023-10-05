@@ -2,7 +2,8 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School 🤓 and an instructor at the Flatiron School. 🥰 
+My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School 🤓 also an instructor at the Flatiron School. 🥰 
+I'm currently pursuing a BS in Software Engineering at Western Governor's University. What can I say, I'm addicted to learning!
 
 I admit, I love the front-end work the most. I'm particularly obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
