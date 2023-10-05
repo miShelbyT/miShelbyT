@@ -1,4 +1,4 @@
-### Hello World! aka <img src="./wave.gif" height="25px"> 🌎
+### Hello World! aka <img src="wave.gif" height="25px"> 🌎
 
 ---
 
