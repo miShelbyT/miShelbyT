@@ -40,9 +40,9 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 
 💡 About Me
 
-- 🔭 I’m currently working on ... a complete rebuild of a petdate app. Dogs are better than people so it's my biggest passion project.
-- 🌱 I’m currently take a dive into ... python/alembic/flask. equal parts fun and tricky.
-- 👯 I’m looking to collaborate on ... an open source project
+- 🔭 I’m currently working on ... my BS in Software Engineering. I'm nearly halfway finished!
+- 🌱 I’m currently take a dive into ... Data Structures and Algorithms. As one does.
+- 👯 I’m looking to collaborate on ... an open source project.
 - 💬 Ask me about ... my rescue dog.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
 - 😄 Pronouns: ... she/her
