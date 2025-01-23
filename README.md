@@ -2,9 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School and was an instructor at the Flatiron School for a little over one year. 🥰 I'm currently pursuing a BS in Software Engineering at Western Governor's University. What can I say, I'm addicted to learning! 🤓 
-
-I admit, I love the front-end work the most. I'm particularly obsessed with JavaScript && React and any/all tools that make an app look amazing. Also darn good at modeling and Rails as a b/e API, and working with external APIs in general. 
+My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School and was an instructor at the Flatiron School for a little over one year. 🥰 I'm currently finishing up my BS in Software Engineering at Western Governor's University. What can I say, I'm addicted to learning! 🤓 
 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
 
@@ -30,18 +28,11 @@ Visit my portfolio website [here](https://www.shelbytalbert.com/).
 I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekculture), [Level Up Coding](https://levelup.gitconnected.com/), [An Idea](https://medium.com/an-idea) and [Nerd For Tech](https://medium.com/nerd-for-tech) publications.
 
 ---
-&#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miShelbyT&hide=java,scss&theme=tokyonight&layout=compact)](https://github-readme-stats-mishelbyt.vercel.app) 
-[![Shelby's GitHub stats](https://github-readme-stats.vercel.app/api?username=miShelbyT&theme=tokyonight&layout=compact)](https://github.com/github-readme-stats-mishelbyt.vercel.app)
-
----
-
 
 💡 About Me
 
-- 🔭 I’m currently working on ... my BS in Software Engineering. I'm nearly halfway finished!
-- 🌱 I’m currently take a dive into ... Data Structures and Algorithms. As one does.
+- 🔭 I’m currently working on ... my BS in Software Engineering. I'm nearly 90% finished!
+- 🌱 I’m currently take a dive into ... Advanced Data Management using postgresql. As one does.
 - 👯 I’m looking to collaborate on ... an open source project.
 - 💬 Ask me about ... my rescue dog.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
