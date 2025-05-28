@@ -2,7 +2,7 @@
 
 ---
 
-My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School and was an instructor at the Flatiron School for a little over one year. 🥰 I'm currently finishing up my BS in Software Engineering at Western Governor's University. What can I say, I'm addicted to learning! 🤓 
+My name is Shelby Talbert. I'm a full stack web developer and graduate of the Flatiron School, and was an instructor at the Flatiron School for a little over one year. 🥰 I just completed my BS in Software Engineering at Western Governor's University. What can I say, I'm addicted to learning! 🤓 
 
 Visit my portfolio website [here](https://www.shelbytalbert.com/).
 
