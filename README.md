@@ -23,8 +23,8 @@ I am published in Medium's [Start Up/Geek Culture](https://medium.com/geekcultur
 
 💡 About Me
 
-- 🔭 I’m currently working on ... my BS in Software Engineering. I'm 99% finished, just working on deploying my capstone!
-- 🌱 I’m currently take a dive into ... capstone. Only capstone.
+- 🔭 I’m currently working on ... taking a break after completing my BS in Software Engineering.
+- 🌱 I’m currently take a dive into ... I think it's going to be C++. 
 - 👯 I’m looking to collaborate on ... an open source project.
 - 💬 Ask me about ... my rescue dog.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/shelby-talbert/)
